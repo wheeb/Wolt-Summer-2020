@@ -1,5 +1,8 @@
 # foodmaster
 
+Site was made as an assignment for Wolt summer 2020 Internship position. 
+Site shows 50 restaurants from Helsinki area and restaurants can be sorted from A to Z. Data is loaded from predetermined json dataset.
+
 ## Project setup
 ```
 npm install
@@ -14,16 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
